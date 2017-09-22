@@ -1,0 +1,36 @@
+body{
+    background-color: FFFFFF;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 32%;
+    margin: auto;
+    line-height: 200%;
+    font-family: Verdana;
+}
+
+
+p {
+    font-size: 150%;
+    color: #3B5998;
+    text-align: center;
+}
+
+body > div > div:last-child{
+    text-align: center;
+}
+
+button {
+    font-size: 20px;
+}
+
+.left-side {
+    display: inline-block;
+    width: 30%;
+    text-align: right;
+}
+
+.right-side{
+    display: inline-block;
+    width: 63%;
+}
